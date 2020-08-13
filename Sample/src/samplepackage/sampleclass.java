@@ -8,6 +8,7 @@ public class sampleclass {
 		String vanz = "pogi";
 		String jesu = "mabait";
 		
+		String awit = vanz === 'cute' ? "awit" : "dapat lang";
 		System.out.println(vanz);
 		System.out.println(jesu);
 		System.out.println(jesu);
