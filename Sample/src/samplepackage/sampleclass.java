@@ -6,8 +6,13 @@ public class sampleclass {
 		// TODO Auto-generated method stub
 		
 		String vanz = "pogi";
+		String jesu = "mabait";
 		
 		System.out.println(vanz);
+		System.out.println(jesu);
+		
+		
+		
 
 	}
 
