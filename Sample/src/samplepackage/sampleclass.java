@@ -11,10 +11,7 @@ public class sampleclass {
 		System.out.println(vanz);
 		System.out.println(jesu);
 		System.out.println(jesu);
-		
-		
-		
-
+		System.out.println(jesu);
 	}
 
 }
